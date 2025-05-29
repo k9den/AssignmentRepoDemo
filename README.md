@@ -18,7 +18,8 @@ This project was developed collaboratively as part of a health-tech initiative. 
 - Next.js
 - Tailwind CSS
 - JavaScript
-- FHIR 
+- FHIR
+- TypeScript
 
 ### 🚀 Screenshots:
 
